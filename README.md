@@ -2,7 +2,7 @@
 
 
 # Movie Reviews Sentiment Analysis
-![Realtor Logo](https://github.com/avithekkc/hospital-readmission-classification/blob/main/images/P3-Project.jpg?raw=true)
+![Realtor Logo](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/p4-header.jpg?raw=true)
 ## Overview
 This project seeks to create a model that classifies Sentiment of a given movie review is Positive or Negative . This information will help Movie Production House to analyze reviews from viewers around various social networking platform.
 
@@ -27,18 +27,18 @@ Reviews with rating 1,2,3 were labeled as Negative and reviews with rating 8,9,1
 ## INSIDE THE REVIEWS
 
 ### Word Cloud Of Positive Reviews
-![Condition Vs Price](https://github.com/avithekkc/hospital-readmission-classification/blob/main/images/number_inpatient.jpg?raw=true)
+![Positive Word Cloud](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/pos_wc.jpg?raw=true)
 
 ### Word Cloud Of Negative Reviews.
-![Condition Vs Price](https://github.com/avithekkc/hospital-readmission-classification/blob/main/images/diag.jpg?raw=true)
+![Negative Word Cloud](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/neg_wc.jpg?raw=true)
 
 ### Bigrams of  Of Negative Reviews. 
 
-![Condition Vs Price](https://github.com/avithekkc/hospital-readmission-classification/blob/main/images/time_in_hospital.jpg?raw=true)
+![Positive Bigram](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/pos_bi.jpg?raw=true)
 
 ###  Bigrams Of Negative Reviews.
 
-![Condition Vs Price](https://github.com/avithekkc/hospital-readmission-classification/blob/main/images/diag.jpg?raw=true)
+![Negative Bigram](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/neg_bi.jpg?raw=true)
 ##  Results
 
 The WebApp version of the project can be found here - [Github](https://github.com/avithekkc/movie-review-sentiment-web-app)
