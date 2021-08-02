@@ -1,6 +1,7 @@
 
 
 
+
 # Movie Reviews Sentiment Analysis
 ![Realtor Logo](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/p4-header.jpg?raw=true)
 ## Overview
@@ -40,8 +41,19 @@ Reviews with rating 1,2,3 were labeled as Negative and reviews with rating 8,9,1
 
 ![Negative Bigram](https://github.com/avithekkc/movie-reviews-sentiment-analysis/blob/main/images/neg_bi.jpg?raw=true)
 ##  Results
+2 classification models were performed to determine best fit:
+Logistic Regression and Multinomial Naive Bayes.
+The Logistic Regression Model reported to be the best model for predicting Sentiment from given movie review using TFIDF Technique.
+
+ACCURACY : 93%  ( TRAIN) and 91%  ( TEST)
 
 The WebApp version of the project can be found here - [Github](https://github.com/avithekkc/movie-review-sentiment-web-app)
+
+##  Next Steps
+-   Location, Time, Name and Numerals Stopwords can be use to reduced the the document length.  
+-   Removing Low Occurring features.
+-  Using Recurrent Neural Network to enhance the performance.
+
 
 ##   Repository Structure
 ```
